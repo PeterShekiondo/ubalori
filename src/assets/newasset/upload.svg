@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="176.563" viewBox="0 0 236 176.563">
+  <g id="Group_566" data-name="Group 566" transform="translate(-949 -1043)">
+    <g id="Rectangle_431" data-name="Rectangle 431" transform="translate(949 1043)" fill="#f4f6fd" stroke="#4169e1" stroke-width="1" stroke-dasharray="6 6">
+      <rect width="236" height="176.563" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="235" height="175.563" rx="3.5" fill="none"/>
+    </g>
+    <g id="Group_487" data-name="Group 487" transform="translate(742 -783)">
+      <text id="Upload_files_here" data-name="Upload files here" transform="translate(325 1941)" fill="#4169e1" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="-63.679" y="0">Upload</tspan><tspan y="0" fill="#394361"> </tspan><tspan y="0" fill="#3b4b7a">files here</tspan></text>
+      <path id="Path_692" data-name="Path 692" d="M43.22,14.308c0-.142.024-.283.024-.425A13.769,13.769,0,0,0,29.585,0,13.617,13.617,0,0,0,17.272,7.91a6.994,6.994,0,0,0-3.164-.767A7.083,7.083,0,0,0,7.166,13.1a10.757,10.757,0,0,0,3.4,20.9h12.1V24.556h-5.69l9.468-9.881,9.468,9.869h-5.69v9.444H43.244a9.842,9.842,0,0,0-.024-19.68Z" transform="translate(299 1884)" fill="#4169e1"/>
+    </g>
+  </g>
+</svg>
